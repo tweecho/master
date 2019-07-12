@@ -129,12 +129,6 @@ def flatten(list): #x = [[1,2],[3],[4]]
       yield j  #list(flatten(x)) = [1,2,3,4] or tuple(flatten(x)) = (1,2,3,4)
  
 
-
-#
-#
-#
-#
-#
 #"""
 #Testing code
 #"""
@@ -147,8 +141,9 @@ def flatten(list): #x = [[1,2],[3],[4]]
 ##y = xmlTitleWords(x)
 ##y1 = xmlAbstractWords(x1)
 ##y2 = xmlKeyWords(x2)
-#
-#
+
+
+
 ##pipeline for preprocessing the xml files  (list of files)
 #
 #fileDir = 'F://ThesisProject//data//biorefinery//'   #for trying: docs(no subdirectory) or Articles(with subdirectory)
