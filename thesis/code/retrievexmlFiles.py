@@ -98,7 +98,7 @@ Testing code
 """
 #pipeline for crawling xmls through API and cache to local disk
 preUrl = "https://api.elsevier.com/content/article/doi/"
-MYAPIKEY = "ff5700b17730f3e24f692184030d0061"
+MYAPIKEY = "APIKey" #please type in your own API keys getting from Elsevier
 searchQuery = "biorefinery"
 count = "100" #need to check permitted value from ScienceDirect's API  Elsevier Dev-> Look at use cases -> text mining -> APIs (SD)
 years = ['1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', 
