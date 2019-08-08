@@ -7,5 +7,5 @@
   - the results for the triples extracted using the baseline method
 ## For visualization (Gephi)
 - **graph_self_traindCBOW_expanded.csv**
-  - the triples which are generated in the format that could be visualized in Gephi. Nodes are the inputs and outputs, the labels on the edge are the technologies.
+  - the triples extracted with the best model we have in this work, which are generated in the format that could be visualized in Gephi. Nodes are the inputs and outputs, the labels on the edge are the technologies.
 
