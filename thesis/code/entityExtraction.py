@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 27 18:06:44 2019
-@author: Arlene
-"""
 import nltk
 import re
 from nltk.corpus import stopwords #153
