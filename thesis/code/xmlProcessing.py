@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Apr 10 11:48:27 2019
-@author: Arlene
-
 ***preprocess xml files***
 ***1.extract abstract/title/keywords from xml file
 ***2.clean the text
