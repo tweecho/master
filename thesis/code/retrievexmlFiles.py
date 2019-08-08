@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb 11 10:59:18 2019
-@author: Arlene
-
 ***crawl xml files from Elsevier's API***
 ***1.generate query
 ***2.get all DOIs which satisfy the query 
