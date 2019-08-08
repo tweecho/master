@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat May  4 14:22:52 2019
-
-@author: Arlene
 1 annotation for doccano
 2 json annotation from doccano
 3 Flair to text classification
