@@ -1,0 +1,433 @@
+source,target,label,weight
+biomass,ethanol,hydrolysis,44
+biomass,bioethanol,bioethanol production,42
+biomass,ethanol,enzymatic hydrolysis,36
+biomass,bioethanol,biorefinery,30
+biomass,sugar,hydrolysis,30
+biomass,bioethanol,hydrolysis,24
+biomass,glucose,hydrolysis,22
+biomass,ethanol,biorefinery,20
+biomass,sugar,enzymatic hydrolysis,20
+biomass,glucose,enzymatic hydrolysis,20
+biomass,enzyme,hydrolysis,18
+biomass,enzyme,enzymatic hydrolysis,12
+biomass,biodiesel,gasification,10
+biomass,biodiesel,transesterification,10
+biomass,feed,biorefinery,10
+biomass,protein,biorefinery,10
+cellulose,biomass,hydrolysis,10
+biomass,biodiesel,harvesting,10
+biomass,paper,hydrolysis,8
+cellulose,biomass,enzymatic hydrolysis,8
+biomass,sugar,acid hydrolysis,8
+biomass,sugar,biorefinery,8
+biomass,biodiesel,drying,8
+biomass,biodiesel,biorefinery,8
+biomass,lipid,biorefinery,8
+biomass,xylose,hydrolysis,8
+biomass,protein,protein extraction,8
+biomass,bioethanol,saccharification,8
+biomass,glucose,biorefinery,8
+biomass,pulp,biorefinery,6
+biomass,bioethanol,pre-treatment,6
+biomass,hydrogen,gasification,6
+cellulose,ethanol,hydrolysis,6
+biomass,paper,pyrolysis,6
+biomass,bioethanol,gasification,6
+biomass,lipid,harvesting,6
+biomass,lipid,drying,6
+biomass,bioethanol,microalgal biorefinery,6
+biomass,biodiesel,microalgal biorefinery,6
+biomass,ethanol,yeast,6
+biomass,bioethanol,enzymatic hydrolysis,6
+biomass,biogas,gasification,6
+biomass,biogas,pyrolysis,6
+biomass,glucose,saccharification,6
+biomass,biodiesel,pyrolysis,6
+cellulose,ethanol,enzymatic hydrolysis,5
+microalgae,biomass,hydrolysis,5
+biomass,pulp,enzymatic hydrolysis,4
+biomass,paper,enzymatic hydrolysis,4
+biomass,paper,biorefinery,4
+biomass,pulp,hydrolysis,4
+biomass,ethanol,biomass collection,4
+biomass,bioethanol,yeast,4
+biomass,ethanol,harvesting,4
+biomass,biogas,hydrolysis,4
+biomass,sugar,saccharification,4
+biomass,protein,drying,4
+biomass,paper,gasification,4
+biomass,ethanol,saccharification,4
+microalgae,biomass,pyrolysis,4
+biomass,gasoline,gasification,4
+biomass,lipid,transesterification,4
+biomass,enzyme,biorefinery,4
+biomass,enzyme,saccharification,4
+biomass,glucan,enzymatic hydrolysis,4
+biomass,glucan,hydrolysis,4
+biomass,methane,methane production,4
+biomass,methane,biorefinery,4
+biomass,xylose,acid hydrolysis,4
+biomass,protein,hydrolysis,4
+biomass,heat,gasification,4
+biomass,heat,pyrolysis,4
+biomass,bioethanol,pyrolysis,4
+biomass,feed,integrated biorefinery,4
+biomass,ethanol,pyrolysis,4
+biomass,glycerol,transesterification,4
+biomass,ethanol,bioethanol production,4
+biomass,heat,biorefinery,4
+biomass,sugar,lignocellulosic biorefinery,4
+biomass,xylose,enzymatic hydrolysis,4
+biomass,biogas,biorefinery,4
+biomass,glucose,yeast,4
+biomass,protein,precipitation,4
+biomass,heat,drying,4
+sugarcane,biomass,biorefinery,3
+sugarcane,glucose,hydrolysis,3
+sugarcane bagasse,glucose,hydrolysis,3
+microalgae,biomass,enzymatic hydrolysis,3
+microalgae,microalgae biomass,enzymatic hydrolysis,3
+microalgae,microalgae biomass,hydrolysis,3
+sugarcane,biomass,enzymatic hydrolysis,3
+sugarcane,biomass,hydrolysis,3
+cellulose,ethanol,biorefinery,3
+cellulose,biomass,biorefinery,3
+cellulose,glucose,hydrolysis,3
+microalgae,biomass,biorefinery,3
+cellulose,bioethanol,hydrolysis,3
+biomass,pulp,integrated biorefinery,2
+biomass,feed,bioethanol production,2
+biomass,feed,pre-treatment,2
+biomass,animal feed,biorefinery,2
+biomass,feed,yeast,2
+biomass,protein,yeast,2
+biomass,animal feed,yeast,2
+biomass,hydrogen,biorefinery,2
+sugarcane,glucose,enzymatic hydrolysis,2
+sugarcane,ethanol,enzymatic hydrolysis,2
+sugarcane,ethanol,hydrolysis,2
+sugarcane bagasse,glucose,enzymatic hydrolysis,2
+cellulose,enzyme,enzymatic hydrolysis,2
+cellulose,enzyme,hydrolysis,2
+sugarcane,sugar,hydrolysis,2
+sugarcane bagasse,biomass,enzymatic hydrolysis,2
+sugarcane bagasse,sugar,hydrolysis,2
+sugarcane bagasse,biomass,hydrolysis,2
+biomass,acetic acid,hydrolysis,2
+biomass,biodiesel,hydrolysis,2
+biomass,biogas,harvesting,2
+biomass,bioethanol,harvesting,2
+biomass,enzyme,harvesting,2
+biomass,acetic acid,harvesting,2
+biomass,paper,acid hydrolysis,2
+biomass,furfural,hydrolysis,2
+biomass,furfural,acid hydrolysis,2
+biomass,protein,pyrolysis,2
+biomass,electricity,gasification,2
+biomass,electricity,bioethanol production,2
+biomass,electricity,hydrolysis,2
+biomass,furfural,biorefinery,2
+biomass,furfural,saccharification,2
+cellulose,biomass,saccharification,2
+microalgae,biomass,gasification,2
+microalgae,microalgae biomass,gasification,2
+biomass,gasoline,biorefinery,2
+biomass,gasoline,drying,2
+cellulose,glucose,enzymatic hydrolysis,2
+biomass,biodiesel,fractionation,2
+biomass,lipid,methane production,2
+biomass,biogas,enzymatic hydrolysis,2
+biomass,hydrogen,drying,2
+biomass,protein,enzymatic hydrolysis,2
+biomass,lipid,enzymatic hydrolysis,2
+biomass,lipid,hydrolysis,2
+biomass,glycerol,microalgal biorefinery,2
+biomass,glycerol,biorefinery,2
+biomass,methane,green biorefinery,2
+biomass,glucose,esterification,2
+biomass,lipid,pyrolysis,2
+biomass,lipid,saccharification,2
+microalgae,lipid,pyrolysis,2
+microalgae,biomass,saccharification,2
+carbohydrate,lipid,pyrolysis,2
+microalgae,biodiesel,pyrolysis,2
+biomass,lipid,microalgal biorefinery,2
+biomass,protein,harvesting,2
+food,feed,biorefinery,2
+food,biomass,biorefinery,2
+food,feed,integrated biorefinery,2
+food,biomass,integrated biorefinery,2
+biomass,press cake,co-digestion,2
+biomass,ethanol,co-digestion,2
+biomass,biodiesel,co-digestion,2
+biomass,press cake,pyrolysis,2
+biomass,glycerol,esterification,2
+biomass,protein,integrated biorefinery,2
+biomass,lipid,integrated biorefinery,2
+biomass,methane,gasification,2
+biomass,methane,pre-treatment,2
+biomass,biodiesel,pre-treatment,2
+biomass,hydrogen,pre-treatment,2
+cellulose,bioethanol,bioethanol production,2
+cellulose,biomass,bioethanol production,2
+biomass,protein,pre-treatment,2
+biomass,lipid,yeast,2
+biomass,heat,integrated biorefinery,2
+biomass,hydrogen,hydrolysis,2
+biomass,hydrogen,acid hydrolysis,2
+biomass,ethanol,acid hydrolysis,2
+biomass,paper,harvesting,2
+biomass,paper,drying,2
+biomass,gasoline,bioethanol production,2
+biomass,bioethanol,lignocellulosic ethanol production,2
+biomass,ethanol,lignocellulosic ethanol production,2
+biomass,glucose,lignocellulosic biorefinery,2
+biomass,xylose,saccharification,2
+biomass,biogas,integrated biorefinery,2
+biomass,pulp,yeast,2
+sugarcane,sugar,biorefinery,2
+sugarcane,electricity,biorefinery,2
+sugarcane bagasse,sugar,biorefinery,2
+sugarcane bagasse,electricity,biorefinery,2
+biomass,h2,biorefinery,2
+biomass,h2,gasification,2
+biomass,biogas,protein extraction,2
+biomass,feed,protein extraction,2
+biomass,fertilizer,protein extraction,2
+biomass,fertilizer,biorefinery,2
+biomass,plant juice,protein extraction,2
+biomass,juice,protein extraction,2
+biomass,protein,screw pressing,2
+biomass,plant juice,screw pressing,2
+biomass,juice,screw pressing,2
+biomass,plant juice,precipitation,2
+biomass,juice,precipitation,2
+biomass,glucose,fractionation,2
+biomass,glycerol,gasification,2
+biomass,solvent,biorefinery,2
+biomass,paper,integrated biorefinery,2
+biomass,solvent,integrated biorefinery,2
+biomass,2-methylfuran,biorefinery,2
+biomass,2-methylfuran,integrated biorefinery,2
+biomass,enzyme,fractionation,2
+biomass,heat,transesterification,2
+biomass,heat,harvesting,2
+biomass,paper,bioethanol production,2
+biomass,xylose,biorefinery,2
+biomass,glucose,acid hydrolysis,2
+biomass,feed,drying,2
+biomass,ethanol,drying,2
+biomass,ethanol,gasification,2
+biomass,sugar,gasification,2
+biomass,sugar,pyrolysis,2
+biomass,glycerol,enzymatic hydrolysis,2
+biomass,glycerol,hydrolysis,2
+food,biodiesel,gasification,1
+food,biomass,gasification,1
+food,biodiesel,transesterification,1
+food,biomass,transesterification,1
+food,feed,bioethanol production,1
+food,bioethanol,bioethanol production,1
+food,biomass,bioethanol production,1
+food,feed,pre-treatment,1
+food,bioethanol,pre-treatment,1
+food,biomass,pre-treatment,1
+sugarcane,feed,biorefinery,1
+sugarcane,protein,biorefinery,1
+sugarcane,bioethanol,biorefinery,1
+sugarcane,animal feed,biorefinery,1
+sugarcane,feed,yeast,1
+sugarcane,protein,yeast,1
+sugarcane,bioethanol,yeast,1
+sugarcane,animal feed,yeast,1
+sugarcane,biomass,yeast,1
+sugarcane bagasse,ethanol,enzymatic hydrolysis,1
+sugarcane bagasse,ethanol,hydrolysis,1
+sugarcane,sugar,enzymatic hydrolysis,1
+sugarcane bagasse,sugar,enzymatic hydrolysis,1
+algae,biogas,hydrolysis,1
+algae,bioethanol,hydrolysis,1
+algae,enzyme,hydrolysis,1
+algae,acetic acid,hydrolysis,1
+algae,biodiesel,hydrolysis,1
+algae,biomass,hydrolysis,1
+algae,biogas,harvesting,1
+algae,bioethanol,harvesting,1
+algae,enzyme,harvesting,1
+algae,acetic acid,harvesting,1
+algae,biodiesel,harvesting,1
+algae,biomass,harvesting,1
+black liquor,sugar,enzymatic hydrolysis,1
+black liquor,biomass,enzymatic hydrolysis,1
+black liquor,sugar,hydrolysis,1
+black liquor,biomass,hydrolysis,1
+hemicellulose,ethanol,biorefinery,1
+hemicellulose,furfural,biorefinery,1
+hemicellulose,biomass,biorefinery,1
+hemicellulose,ethanol,saccharification,1
+hemicellulose,furfural,saccharification,1
+hemicellulose,biomass,saccharification,1
+cellulose,furfural,biorefinery,1
+cellulose,ethanol,saccharification,1
+cellulose,furfural,saccharification,1
+microalgae,microalgae biomass,pyrolysis,1
+cellulose,ethanol,harvesting,1
+cellulose,biomass,harvesting,1
+hemicellulose,glucose,hydrolysis,1
+hemicellulose,xylose,hydrolysis,1
+hemicellulose,glucose,acid hydrolysis,1
+hemicellulose,xylose,acid hydrolysis,1
+cellulose,xylose,hydrolysis,1
+cellulose,glucose,acid hydrolysis,1
+cellulose,xylose,acid hydrolysis,1
+cellulose,glucan,enzymatic hydrolysis,1
+cellulose,glucan,hydrolysis,1
+microalgae,methane,methane production,1
+microalgae,lipid,methane production,1
+microalgae,biomass,methane production,1
+microalgae,methane,biorefinery,1
+microalgae,lipid,biorefinery,1
+sugarcane,enzyme,enzymatic hydrolysis,1
+sugarcane,enzyme,hydrolysis,1
+sugarcane bagasse,enzyme,enzymatic hydrolysis,1
+sugarcane bagasse,enzyme,hydrolysis,1
+gracilaria biomass,bioethanol,enzymatic hydrolysis,1
+gracilaria biomass,bioethanol,bioethanol production,1
+gracilaria biomass,bioethanol,hydrolysis,1
+cellulose,pulp,enzymatic hydrolysis,1
+cellulose,pulp,hydrolysis,1
+sugarcane,pulp,enzymatic hydrolysis,1
+sugarcane,pulp,hydrolysis,1
+sugarcane bagasse,pulp,enzymatic hydrolysis,1
+sugarcane bagasse,pulp,hydrolysis,1
+black liquor,biogas,gasification,1
+black liquor,biomass,gasification,1
+black liquor,biogas,pyrolysis,1
+black liquor,biomass,pyrolysis,1
+sludge,biogas,gasification,1
+sludge,biomass,gasification,1
+sludge,biogas,pyrolysis,1
+sludge,biomass,pyrolysis,1
+macroalgal biomass,protein,enzymatic hydrolysis,1
+macroalgal biomass,lipid,enzymatic hydrolysis,1
+macroalgal biomass,protein,hydrolysis,1
+macroalgal biomass,lipid,hydrolysis,1
+globosa biomass,ethanol,saccharification,1
+globosa biomass,ethanol,yeast,1
+cellulose,glucose,esterification,1
+cellulose,biomass,esterification,1
+cellulose,glucose,saccharification,1
+microalgae,microalgae residual biomass,pyrolysis,1
+microalgae,lipid,saccharification,1
+microalgae,microalgae residual biomass,saccharification,1
+carbohydrate,biomass,pyrolysis,1
+carbohydrate,microalgae residual biomass,pyrolysis,1
+carbohydrate,lipid,saccharification,1
+carbohydrate,biomass,saccharification,1
+carbohydrate,microalgae residual biomass,saccharification,1
+microalgae residual biomass,lipid,pyrolysis,1
+microalgae residual biomass,lipid,saccharification,1
+microalgae,bioethanol,biorefinery,1
+microalgae,biodiesel,biorefinery,1
+microalgae,bioethanol,pyrolysis,1
+microalgae,protein,protein extraction,1
+microalgae,biomass,protein extraction,1
+microalgae,protein,harvesting,1
+microalgae,biomass,harvesting,1
+microalgae,press cake,co-digestion,1
+microalgae,ethanol,co-digestion,1
+microalgae,biodiesel,co-digestion,1
+microalgae,biomass,co-digestion,1
+microalgae,press cake,pyrolysis,1
+microalgae,ethanol,pyrolysis,1
+microalgae,methane,gasification,1
+microalgae,biodiesel,gasification,1
+microalgae,hydrogen,gasification,1
+microalgae,methane,pre-treatment,1
+microalgae,biodiesel,pre-treatment,1
+microalgae,hydrogen,pre-treatment,1
+microalgae,biomass,pre-treatment,1
+microalgae,microalgae biomass,pre-treatment,1
+microalgae biomass,methane,gasification,1
+microalgae biomass,biodiesel,gasification,1
+microalgae biomass,hydrogen,gasification,1
+microalgae biomass,methane,pre-treatment,1
+microalgae biomass,biodiesel,pre-treatment,1
+microalgae biomass,hydrogen,pre-treatment,1
+microalgae,microalgae biomass,saccharification,1
+sugarcane,glucose,pre-treatment,1
+sugarcane,sugar,pre-treatment,1
+sugarcane,xylose,pre-treatment,1
+sugarcane,xylose,hydrolysis,1
+sugarcane bagasse,glucose,pre-treatment,1
+sugarcane bagasse,sugar,pre-treatment,1
+sugarcane bagasse,xylose,pre-treatment,1
+sugarcane bagasse,xylose,hydrolysis,1
+macroalgal biomass,bioethanol,pre-treatment,1
+macroalgal biomass,bioethanol,saccharification,1
+microalgae,ethanol,hydrolysis,1
+microalgae,ethanol,yeast,1
+microalgae,biomass,yeast,1
+cellulose,ethanol,bioethanol production,1
+microalgae,protein,pyrolysis,1
+microalgae,protein,hydrolysis,1
+microalgae,lipid,hydrolysis,1
+carbohydrate,protein,pyrolysis,1
+carbohydrate,protein,hydrolysis,1
+carbohydrate,lipid,hydrolysis,1
+algae,biomass,biorefinery,1
+algae,algae biomass,biorefinery,1
+algae,biomass,fractionation,1
+algae,algae biomass,fractionation,1
+hemicellulose,bioethanol,enzymatic hydrolysis,1
+hemicellulose,ethanol,enzymatic hydrolysis,1
+hemicellulose,biomass,enzymatic hydrolysis,1
+hemicellulose,bioethanol,hydrolysis,1
+hemicellulose,ethanol,hydrolysis,1
+hemicellulose,biomass,hydrolysis,1
+cellulose,bioethanol,enzymatic hydrolysis,1
+sugarcane,sugar,lignocellulosic biorefinery,1
+sugarcane,electricity,lignocellulosic biorefinery,1
+sugarcane bagasse,sugar,lignocellulosic biorefinery,1
+sugarcane bagasse,electricity,lignocellulosic biorefinery,1
+sugarcane,heat,biorefinery,1
+sugarcane,itaconic acid,biorefinery,1
+sugarcane,sugar,integrated biorefinery,1
+sugarcane,heat,integrated biorefinery,1
+sugarcane,itaconic acid,integrated biorefinery,1
+sugarcane,electricity,integrated biorefinery,1
+sugarcane bagasse,heat,biorefinery,1
+sugarcane bagasse,itaconic acid,biorefinery,1
+sugarcane bagasse,sugar,integrated biorefinery,1
+sugarcane bagasse,heat,integrated biorefinery,1
+sugarcane bagasse,itaconic acid,integrated biorefinery,1
+sugarcane bagasse,electricity,integrated biorefinery,1
+microalgae,microalgae biomass,biorefinery,1
+microalgae,biomass,drying,1
+microalgae,microalgae biomass,drying,1
+sugarcane,microalgae biomass,biorefinery,1
+sugarcane,biomass,drying,1
+sugarcane,microalgae biomass,drying,1
+algal biomass,biodiesel,gasification,1
+algal biomass,glycerol,gasification,1
+algal biomass,biodiesel,transesterification,1
+algal biomass,glycerol,transesterification,1
+sugarcane,ethanol,biorefinery,1
+phaeodactylum tricornutum,paper,biorefinery,1
+phaeodactylum tricornutum,solvent,biorefinery,1
+phaeodactylum tricornutum,biomass,biorefinery,1
+phaeodactylum tricornutum,paper,integrated biorefinery,1
+phaeodactylum tricornutum,solvent,integrated biorefinery,1
+phaeodactylum tricornutum,biomass,integrated biorefinery,1
+microalgae,paper,bioethanol production,1
+microalgae,bioethanol,bioethanol production,1
+microalgae,biomass,bioethanol production,1
+microalgae,paper,hydrolysis,1
+microalgae,bioethanol,hydrolysis,1
+macroalgal biomass,glucose,biorefinery,1
+macroalgal biomass,xylose,biorefinery,1
+macroalgal biomass,glucose,hydrolysis,1
+macroalgal biomass,xylose,hydrolysis,1
+macroalgal biomass,glucose,acid hydrolysis,1
+macroalgal biomass,xylose,acid hydrolysis,1
