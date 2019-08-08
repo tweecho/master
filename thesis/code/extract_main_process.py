@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 29 16:55:38 2019
-
-@author: Arlene
-"""
-
 import numpy as np
 import gensim.models.keyedvectors as word2vec
 from gensim.test.utils import datapath
