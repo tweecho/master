@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  3 19:19:29 2019
-
-@author: Arlene
-"""
 from __future__ import unicode_literals, print_function
 file_dir = 'F://ThesisProject//data//ann//19_ann_NER.json'
 
