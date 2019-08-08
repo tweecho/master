@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 19 13:13:55 2019
-
-@author: Arlene
-"""
-
 import pandas as pd #for data handling
 import nltk
 import os
