@@ -2,8 +2,6 @@
 """
 Created on Wed Feb 27 18:06:44 2019
 @author: Arlene
-
-1. use DBpedia API to extract all the named entities 
 """
 import nltk
 import re
