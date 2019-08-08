@@ -1,6 +1,6 @@
 # Master Thesis -- Process Extraction for Biorefinery Texts
 
-## Code for Master thesis project 
+## Code for the Master thesis project 
 ### Text Mining Pipeline for Process Extraction
 The pipeline for process extraction constructed is as follows: 
 - **Retrieve Domain-specific Articles** 
