@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 23 01:46:29 2019
-
-@author: Arlene
-"""
-
 import nltk #PP pastPerfect
 
 def isPassive(sentence):
